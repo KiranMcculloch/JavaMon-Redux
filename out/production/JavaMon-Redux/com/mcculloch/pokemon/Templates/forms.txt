@@ -1,0 +1,187 @@
+//for the sake of the file names, the "0" forms have no extensions at all
+// ex. 1 = fire
+// 1 is the numerical file extension (_1) as well as the value of "int form" in code, "fire" is simply what it refers to
+// will maybe replace this with an enum at some point.
+//* = sprites properly organized
+
+28 = All megas (incl. primals)
+29 = Alolan Form
+30 = Galarian Form
+
+*Unown 201  0 = A
+	   1 = B
+	   2 = C	   
+	   3 = D
+	   4 = E
+	   5 = F
+	   6 = G	   
+	   7 = H
+	   8 = I
+	   9 = J
+	   10 =	K   
+	   11 = L
+	   12 = M
+	   13 = N
+	   14 =	O  
+	   15 = P
+	   16 = Q
+	   17 = R
+	   18 =	S   
+	   19 = T
+	   20 = U
+	   21 = V
+	   22 =	W   
+	   23 = X
+	   24 = Y
+	   25 = Z
+	   26 =	!
+	   27 = ?
+
+*Castform 351 0 = normal
+	     1 = sunny
+	     2 = rainy
+             3 = snowy
+
+*Deoxys 386 0 = normal
+	   1 = attack
+           2 = defense
+	   3 = speed
+
+*Burmy 412/Wormadam 413 0 = plant
+		       1 = sandy
+		       2 = trash
+
+*Cherrim 421 0 = overcast
+	    1 = sunshine
+
+*Shellos 422/Gastrodon 423 0 = west
+			  1 = east
+*Rotom 479 0 = normal
+	  1 = heat
+	  2 = wash
+	  3 = frost
+	  4 = fan
+	  5 = mow
+
+*Giratina 487 0 = altered
+	     1 = origin 
+
+*Shaymin 492 0 = land
+	    1 = sky
+
+Arceus 493 0 = normal
+	   1 = fighting
+	   2 = flying
+	   3 = poison
+	   4 = ground
+	   5 = rock
+	   6 = bug
+	   7 = ghost
+	   8 = steel
+	   9 = fire
+	   10 = water
+	   11 = grass
+	   12 = electric
+	   13 = psychic
+	   14 = ice
+	   15 = dragon
+	   16 = dark
+	   17 = fairy
+
+*Basculin 550 0 = red-striped
+	     1 = blue-striped
+
+*Darmanitan 555 0 = standard
+	       1 = zen
+	       *SPECIAL NOTE*
+	       30 = galarian standard
+	       31 = galarian zen
+
+*Deerling 585/Sawsbuck 586 0 = spring
+			  1 = summer
+			  2 = autumn
+			  3 = winter
+
+*Tornadus 641/Thundurus 642/Landorus 645 0 = incarnate
+					1 = therian
+
+*Kyurem 646 0 = normal
+	   1 = white
+	   2 = black
+
+*Keldeo 647 0 = normal
+	   1 = resolute
+
+*Meloetta 648 0 = aria
+	     1 = pirouette
+
+*Genesect 649 0 = normal
+	     1 = shock
+	     2 = burn
+	     3 = chill
+	     4 = douse
+
+*Aegislash 681 0 = shield
+	      1 = blade
+
+*Zygarde 718 0 = 50%
+	    1 = 10%
+	    2 = complete
+
+Hoopa 720 0 = normal
+	  1 = unbound
+
+*Oricorio 741 0 = baile
+	     1 = pom-pom
+	     2 = pau
+	     3 = sensu
+
+Lycanroc 745 0 = midday
+	     1 = midnight
+	     2 = dusk
+
+*Wishiwashi 746 0 = solo
+	       1 = school
+
+Silvally 773 0 = normal
+	     1 = fighting
+	     2 = flying
+	     3 = poison
+	     4 = ground
+	     5 = rock
+	     6 = bug
+	     7 = ghost
+	     8 = steel
+	     9 = fire
+	     10 = water
+	     11 = grass
+	     12 = electric
+	     13 = psychic
+	     14 = ice
+	     15 = dragon
+	     16 = dark
+	     17 = fairy
+
+Minior 774 0 = meteor
+	   1 = red
+	   2 = orange
+	   3 = yellow
+	   4 = green
+	   5 = blue
+	   6 = indigo
+	   7 = violet
+
+*Mimikyu 778 0 = disguised
+	    1 = busted
+
+Necrozma 800 0 = normal
+	     1 = dusk mane
+	     2 = dawn wings
+	     3 = ultra
+
+Magearna 801 0 = normal
+	     1 = original color
+	   
+	   
+	   
+	   
